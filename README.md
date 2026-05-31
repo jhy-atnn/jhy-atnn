@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate student developer and administra
 
 ### About Me
 - Bachelor of Science in Information Technology
-- Polytechnic University of the Philippines Sto. Tomas
+- Polytechnic University of the Philippines – Sto. Tomas
 - Currently focusing on Web Development, Back-End Development, Database Administration, and Network Administration
 - Aspiring Software Engineer? 🤞🍀
 - When I'm not coding, I am probably working out or playing ball
