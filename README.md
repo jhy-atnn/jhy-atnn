@@ -15,7 +15,10 @@ Welcome to my GitHub profile! I am a passionate student developer and administra
 - **Tools:** VS Code, Visual Studio, Cisco Packet Tracer, XAMPP, Git, Flutter
 
 ### What I'm Working On
-- Currently working on building an e-commerce website with user authentication and session management (check my Ascend Sports E-Commerce!)
+- Currently working on building an e-commerce website with user authentication and session management:
+- ApeX E-Commerce
+- MakiKonek
+- Personal Portfolio
 
 ### How to Reach Me
 - **Email:** atinon.jhody@gmail.com
