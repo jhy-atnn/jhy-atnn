@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I am a passionate student developer and administra
 
 ### How to Reach Me
 - **Email:** atinon.jhody@gmail.com
-- **IG:** @jhy_atnn
+- **IG:** https://www.instagram.com/jhy_atnn/
 - **FB:** https://www.facebook.com/jhody.mesina.atinon
-- **GitHub:** jhy-atnn
+- **GitHub:** https://github.com/jhy-atnn
 
 ### Achievements
 - Coming Soonest! '28 🙏💻
