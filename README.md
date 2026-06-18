@@ -1,5 +1,4 @@
-## <img width="192" height="204" alt="jhy-img-logo" src="https://github.com/user-attachments/assets/f74a99e3-8612-43e4-b4cf-56d8f1e20e89" />
- Heyya! I'm Jhody 😉	
+<img width="20" height="20" alt="jhy-img-logo" src="https://github.com/user-attachments/assets/f74a99e3-8612-43e4-b4cf-56d8f1e20e89" /> Heyya! I'm Jhody 😉	
 
 Welcome to my GitHub profile! I am a passionate student developer and administrator focused on building dynamic and user-friendly projects, including web applications.
 
