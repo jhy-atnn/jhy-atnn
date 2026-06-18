@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="URL-to-your-dark-mode-logo.png">
-  <img src="C:\Users\jhody\OneDrive\Documents\2-1 2ND SEM\Human Computer Interaction\HCI PORTFOLIO\assets\img\jhy-logo.svg" width="120" alt="Minimalist Logo">
+  <img src="C:\Users\jhody\OneDrive\Documents\2-1 2ND SEM\Human Computer Interaction\HCI PORTFOLIO\assets\img\jhy-img-logo.png" width="120" alt="Minimalist Logo">
 </picture>
 
 Heyya! I'm Jhody 😉	
