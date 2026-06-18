@@ -1,4 +1,4 @@
-## Heyya! I'm Jhody 😉	
+## <img src="jhy-img-logo" width="35" align="center"> Heyya! I'm Jhody 😉	
 
 Welcome to my GitHub profile! I am a passionate student developer and administrator focused on building dynamic and user-friendly projects, including web applications.
 
