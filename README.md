@@ -37,10 +37,9 @@ Welcome to my GitHub profile! I am a passionate student developer and administra
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### What I'm Working On
-- Currently working on building an e-commerce website with user authentication and session management:
-- ApeX E-Commerce
-- MakiKonek
+- MakiKonek Mobile
 - Personal Portfolio
+- Audit System for Gcash
 
 ### How to Reach Me
 - **Email:** atinon.jhody@gmail.com
