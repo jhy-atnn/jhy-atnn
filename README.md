@@ -3,7 +3,6 @@
 </div>
 
 <br>
-
 ## Heyya! I'm Jhody 😉	
 
 Welcome to my GitHub profile! I am a passionate student developer and administrator focused on building dynamic and user-friendly projects, including web applications.
