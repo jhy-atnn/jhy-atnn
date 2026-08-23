@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/brand-mark.svg" width="20" alt="" /> Jhody Atinon</h1>
+<h1 align="center"><img src="./assets/brand-mark.svg" width="30" alt="" /> Jhody Atinon</h1>
 
 <p align="center">
   <sub>BSIT student · aspiring software engineer · PUP Sto. Tomas</sub>
@@ -20,12 +20,6 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="./assets/streak.svg" alt="Jhody's GitHub contribution streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jhy-atnn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhy-atnn&amp;theme=github_dark&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F8FAFC&amp;text_color=C9D1D9&amp;chart_color=FF3D9A" alt="Jhody's GitHub contribution graph" />
   </a>
 </p>
 
