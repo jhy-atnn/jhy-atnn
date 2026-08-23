@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats-zeta-wheat.vercel.app/?user=jhy-atnn&theme=default&hide_border=true&background=FFFFFF&ring=007AFF&currStreakNum=000000&sideNums=000000&currStreakLabel=8E8E93&sideLabels=8E8E93&dates=8E8E93" alt="Jhody's GitHub Streak Tracker" />
+  <img src="streak-light.svg" alt="Jhody's GitHub Streak Tracker" />
 </div>
 
 <br>
