@@ -22,9 +22,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Add this value in Settings > Secrets and variables > Actions.
-          # Never place the token itself in this workflow.
-          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN }}
+          # Optional: add this value in Settings > Secrets and variables > Actions for private activity.
+          # Never place the token itself in this workflow. The built-in token covers public data.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN || github.token }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main

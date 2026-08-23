@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/brand-mark.svg" width="38" alt="" /> Jhody Atinon</h1>
+<h1 align="center"><img src="./assets/brand-mark.svg" width="20" alt="" /> Jhody Atinon</h1>
 
 <p align="center">
   <sub>BSIT student · aspiring software engineer · PUP Sto. Tomas</sub>
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="./profile/streak.svg" alt="Jhody's GitHub contribution streak" />
+    <img src="./assets/streak.svg" alt="Jhody's GitHub contribution streak" />
   </a>
 </p>
 
@@ -43,23 +43,23 @@
 
 ## Selected work
 
-*   **MakiKonek Mobile**
-*   **Audit System for GCash**
-*   **Personal Portfolio**
-*   **Undergraduate Capstone**
+- **MakiKonek Mobile**
+- **Audit System for GCash**
+- **Personal Portfolio**
+- **Undergraduate Capstone**
 
-| Project | Focus |
-| --- | --- |
-| **MakiKonek Mobile** | A mobile project currently in development. |
-| **GCash Audit System** | A system supporting more reliable audit workflows. |
+| Project                                               | Focus                                                 |
+| ----------------------------------------------------- | ----------------------------------------------------- |
+| **MakiKonek Mobile**                                  | A mobile project currently in development.            |
+| **GCash Audit System**                                | A system supporting more reliable audit workflows.    |
 | [**Personal Portfolio**](https://jhy-atnn.github.io/) | A growing home for my work, process, and experiments. |
-| **Undergraduate Capstone** | Research and development in progress. |
+| **Undergraduate Capstone**                            | Research and development in progress.                 |
 
 ## Portfolio
 
 <p align="center">
   <a href="https://jhy-atnn.github.io/">
-    <img src="./assets/portfolio-preview.svg" width="720" alt="Preview of Jhody Atinon's portfolio" />
+    <img src="./assets/Screenshot%202026-08-23%20221737.png" width="720" alt="Preview of Jhody Atinon's portfolio" />
   </a>
 </p>
 
@@ -67,14 +67,7 @@
   <a href="https://jhy-atnn.github.io/"><strong>Open my portfolio →</strong></a>
 </p>
 
-## Toolkit
-
-<p align="left">
-  <a href="mailto:atinon.jhody@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/jhody-atinon-835a42412"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/jhy_atnn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/jhody.mesina.atinon"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</p>
+## Toolkit & Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" alt="HTML5" title="HTML5" />
@@ -93,4 +86,9 @@
 
 ## Connect
 
-[Email](mailto:atinon.jhody@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jhody-atinon-835a42412) · [Instagram](https://www.instagram.com/jhy_atnn/) · [Facebook](https://www.facebook.com/jhody.mesina.atinon)
+<p align="center">
+  <a href="mailto:atinon.jhody@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jhody-atinon-835a42412"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/jhy_atnn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/jhody.mesina.atinon"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>

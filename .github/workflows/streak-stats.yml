@@ -23,15 +23,15 @@ jobs:
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=default&border_radius=16&ring=8B5CF6&fire=EC4899&currStreakNum=111827&sideNums=111827&currStreakLabel=8B5CF6&sideLabels=4B5563&dates=6B7280&disable_animations=true&timezone=Asia/Manila
-          path: profile/streak.svg
-          # This is a repository secret, not a literal token.
-          token: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN }}
+          options: user=${{ github.repository_owner }}&theme=dark&border_radius=18&ring=FF3D9A&fire=FF6B00&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=FF6B00&sideLabels=F8FAFC&dates=98A2B3&disable_animations=true&timezone=Asia/Manila
+          path: assets/streak.svg
+          # A repository secret enables private activity; public activity uses the built-in token.
+          token: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN || github.token }}
       - name: Commit updated streak card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
+          git add assets/streak.svg
           git diff --cached --quiet && exit 0
           git commit -m "chore: update contribution streak"
           git push
