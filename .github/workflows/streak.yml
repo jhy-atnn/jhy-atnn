@@ -1,8 +1,8 @@
 name: Update Streak Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # Automatically updates daily
-  workflow_dispatch: # Gives you a button to update it manually
+    - cron: '0 0 * * *' # Automatically updates daily at midnight UTC
+  workflow_dispatch: # Gives you a button to update it manually just in case
 
 jobs:
   update-streak:
@@ -17,14 +17,15 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: streak-dark.svg
-          theme: github-dark
+          output-path: streak-stats.svg
+          theme: default
+          background_color: "00000000"
           hide-border: true
           
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add streak-light.svg
+          git add streak-stats.svg
           git commit -m "Update streak stats" || exit 0
           git push
