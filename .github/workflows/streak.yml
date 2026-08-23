@@ -19,7 +19,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           output-path: streak-stats.svg
           theme: dark
-          hide-border: true
+          background_color: "0D1117"
+          hide_border: true
           
       - name: Commit changes
         run: |
