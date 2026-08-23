@@ -1,0 +1,43 @@
+name: Update profile summary cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Add this value in Settings > Secrets and variables > Actions.
+          # Never place the token itself in this workflow.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          EXCLUDE: ""
+          AUTO_PUSH: false
+          # Generate light and dark variants used by the README's <picture> elements.
+          THEME: ""
+      - name: Commit updated profile cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update profile summary cards"
+          git push
