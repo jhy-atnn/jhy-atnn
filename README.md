@@ -75,8 +75,9 @@
 ### Tools
 
 <p>
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7?viewbox=auto" width="48" height="48" alt="Cisco" />
-<img src="https://cdn.simpleicons.org/xampp/FB7A24?viewbox=auto" width="48" height="48" alt="XAMPP" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,flutter&theme=dark" alt="Tools" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7?viewbox=auto" width="48" height="48" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24?viewbox=auto" width="48" height="48" alt="XAMPP" />
 </p>
 
 ## Connect
@@ -92,6 +93,6 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/jhody.mesina.atinon">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2?viewbox=auto" width="48" height="48" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
