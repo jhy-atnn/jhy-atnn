@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="streak-stats.svg" alt="Jhody's GitHub Streak Tracker" />
-</div>
+![](https://raw.githubusercontent.com/jhy-atnn/jhy-atnn/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 ## Heyya! I'm Jhody 😉	
 
