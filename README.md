@@ -24,21 +24,18 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Jhody's GitHub contribution graph" />
-  </picture>
+  <a href="https://github.com/jhy-atnn">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhy-atnn&amp;theme=github_dark&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F8FAFC&amp;text_color=C9D1D9&amp;chart_color=FF3D9A" alt="Jhody's GitHub contribution graph" />
+  </a>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-    <img src="./profile-summary-card-output/github/3-stats.svg" alt="Jhody's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Jhody's top repository languages" />
-  </picture>
+  <a href="https://github.com/jhy-atnn">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhy-atnn&amp;theme=github_dark&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F8FAFC&amp;text_color=C9D1D9&amp;icon_color=FF6B00" alt="Jhody's GitHub statistics" />
+  </a>
+  <a href="https://github.com/jhy-atnn">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhy-atnn&amp;theme=github_dark&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F8FAFC&amp;text_color=C9D1D9&amp;chart_color=FF3D9A" alt="Jhody's top repository languages" />
+  </a>
 </p>
 
 ## Selected work

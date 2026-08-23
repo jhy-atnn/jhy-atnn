@@ -6,17 +6,17 @@
       <stop offset="1" stop-color="#A72BE8"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="520" rx="24" fill="#10141D"/>
+  <rect width="1200" height="520" rx="24" fill="#0D1117"/>
 
   <g opacity="0.9">
-    <rect x="0" y="0" width="400" height="520" fill="#10141D"/>
-    <rect x="400" y="0" width="400" height="520" fill="#10141D"/>
-    <rect x="800" y="0" width="400" height="520" fill="#10141D"/>
+    <rect x="0" y="0" width="400" height="520" fill="#0D1117"/>
+    <rect x="400" y="0" width="400" height="520" fill="#0D1117"/>
+    <rect x="800" y="0" width="400" height="520" fill="#0D1117"/>
   </g>
 
   <g>
-    <line x1="399.5" y1="30" x2="399.5" y2="490" stroke="#D9D9D9" stroke-opacity="0.28"/>
-    <line x1="799.5" y1="30" x2="799.5" y2="490" stroke="#D9D9D9" stroke-opacity="0.28"/>
+    <line x1="399.5" y1="30" x2="399.5" y2="490" stroke="#30363D"/>
+    <line x1="799.5" y1="30" x2="799.5" y2="490" stroke="#30363D"/>
   </g>
 
   <g>
@@ -27,7 +27,7 @@
 
   <g>
     <circle cx="600" cy="228" r="118" stroke="url(#brand-gradient)" stroke-width="12" fill="none"/>
-    <circle cx="600" cy="228" r="100" fill="#10141D"/>
+    <circle cx="600" cy="228" r="100" fill="#0D1117"/>
     <g transform="translate(567 102) scale(2.75)">
       <path d="M12 23C7.029 23 3 18.971 3 14C3 9.5 6 6 8 4C8 8 10 9 11 8C11 5 13 2 16 1C15 4 17 6 19 7C21 8.5 21 11 21 14C21 18.971 16.971 23 12 23Z" fill="url(#brand-gradient)"/>
     </g>
