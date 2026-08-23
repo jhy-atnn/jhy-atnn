@@ -18,9 +18,9 @@ jobs:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
           output-path: streak-stats.svg
-          theme: default
+          theme: github-dark
           background_color: "00000000"
-          hide-border: true
+          hide_border: true
           
       - name: Commit changes
         run: |
