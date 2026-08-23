@@ -7,11 +7,11 @@
     .fire { fill: #fb8c00; }
   </style>
 
-  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#fffefe" stroke-opacity="0"/>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#fffefe" stroke="#e4e2e2" stroke-width="1"/>
 
   <!-- Total Contributions -->
   <g transform="translate(50, 48)">
-    <text class="stat-number" fill="#151515" text-anchor="middle" x="55">228</text>
+    <text class="stat-number" fill="#151515" text-anchor="middle" x="55">231</text>
     <text class="stat-label" fill="#151515" text-anchor="middle" x="55" y="30">Total Contributions</text>
     <text class="date-range" text-anchor="middle" x="55" y="50">Past Year</text>
   </g>
