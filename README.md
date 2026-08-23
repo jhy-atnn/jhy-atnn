@@ -93,6 +93,5 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/jhody.mesina.atinon">
-    <img src="https://img.shields.io/badge/-%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+<img src="https://cdn.simpleicons.org/facebook/1877F2?viewbox=auto" width="48" height="48" alt="Facebook" />  </a>
 </p>
