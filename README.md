@@ -71,10 +71,10 @@ Welcome to my GitHub! I am a passionate student developer and administrator focu
 
 ### Featured Projects
 
-*   **MakiKonek Mobile:** *(Add 1 brief sentence here about what this does and the tech used)*
-*   **Audit System for GCash:** *(Add 1 brief sentence here about what this does and the tech used)*
-*   **Personal Portfolio:** *(Add 1 brief sentence here about what this does and the tech used)*
-*   **Undergraduate Capstone:** *(Add 1 brief sentence here about what this does and the tech used)*
+*   **MakiKonek Mobile**
+*   **Audit System for GCash** 
+*   **Personal Portfolio** 
+*   **Undergraduate Capstone**
 
 ---
 
