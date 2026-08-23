@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/brand-mark.svg" width="30" alt="" /> Jhody Atinon</h1>
+<h1 align="center"><img src="./assets/brand-mark.svg" width="28" alt="" /> Jhody Atinon</h1>
 
 <p align="center">
   <sub>BSIT student · aspiring software engineer · PUP Sto. Tomas</sub>
