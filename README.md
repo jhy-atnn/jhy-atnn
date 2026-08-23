@@ -70,7 +70,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Design and 3D" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC?viewbox=auto" width="48" height="48" alt="Canva" />
+  <img src="https://api.iconify.design/simple-icons:canva.svg?color=%2300C4CC" width="48" height="48" alt="Canva" />
 </p>
 
 ### Tools
