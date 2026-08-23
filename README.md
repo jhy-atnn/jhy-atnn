@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="streak-light.svg" alt="Jhody's GitHub Streak Tracker" />
+  <img src="streak-stats.svg" alt="Jhody's GitHub Streak Tracker" />
 </div>
-
-<br>
 
 ## Heyya! I'm Jhody 😉	
 
