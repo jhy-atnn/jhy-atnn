@@ -17,8 +17,8 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: streak-light.svg
-          theme: default
+          output-path: streak-dark.svg
+          theme: github-dark
           hide-border: true
           
       - name: Commit changes
