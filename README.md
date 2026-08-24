@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Heyya! I’m Juday, a BSIT student from PUP Santo Tomas. Welcome to my GitHub! This space will showcase the projects I’ve worked on during my journey here at PUP. Right now, I’m still exploring different areas of IT and figuring out which paths fit my strengths, personality, and style. The tech world is huge and sometimes overwhelming, but I’m taking it step by step, learning as I go. There have been challenges along the way, but each one pushes me to grow and keep moving forward. I’m excited for the milestones ahead and rooting for more achievements in the future. FIGHTING!
+Heyya! I’m Juday, a BSIT student from PUP Santo Tomas. Welcome to my GitHub! This space will showcase the projects I’ve worked on during my journey here at PUP. Right now, I’m still exploring different areas of IT and figuring out which path fit my strengths, personality, and style. The tech world is huge and sometimes overwhelming, but I’m taking it step by step, learning as I go. There have been challenges along the way, but each one pushes me to grow and keep moving forward. I’m excited for the milestones ahead and rooting for more achievements in the future. FIGHTING!
 </p>
 
 ## Now
