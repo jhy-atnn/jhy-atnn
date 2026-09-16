@@ -23,15 +23,6 @@ Heyya! I’m Juday, a BSIT student from PUP Santo Tomas. Welcome to my GitHub! T
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/jhy-atnn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhy-atnn&amp;theme=github_dark&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F8FAFC&amp;text_color=C9D1D9&amp;icon_color=FF6B00" alt="Jhody's GitHub statistics" />
-  </a>
-  <a href="https://github.com/jhy-atnn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhy-atnn&amp;theme=github_dark&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F8FAFC&amp;text_color=C9D1D9&amp;chart_color=FF3D9A" alt="Jhody's top repository languages" />
-  </a>
-</p>
-
 ## Selected work
 
 - **MakiKonek Mobile**
